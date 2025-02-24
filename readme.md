@@ -9,7 +9,7 @@ Sou aluno da Digital Innovation One (DIO), e este projeto foi desenvolvido desti
 
 ### ✅ Para ver o código funcionando 
 
-[CLIQUE AQUI]()
+[CLIQUE AQUI](https://italoarthur37.github.io/projeto-simulador-piano/)
 
 ---
 
