@@ -1,4 +1,4 @@
-# Simulador Piano
+# Simulador de Piano
 
 ---
 
